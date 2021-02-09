@@ -42,7 +42,7 @@ Latex:
 
 ## Reproduction
 
-It is advisable to just get the tweets from Twitter instead of reproducing the paper as reproduction is time and memory consuming. In case you still one to do that:
+We advise you to just get the tweets from Twitter instead of reproducing the paper as reproduction is time and memory consuming. In case you still want to do that:
 
 - You need to download the archive data first (https://archive.org/details/twitterstream)
 
