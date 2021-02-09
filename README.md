@@ -36,7 +36,7 @@ Latex:
 
 ## Reproduction
 
-- You need to download the archive data first (https://archive.org/details/twitterstream&morf=year)
+- You need to download the archive data first (https://archive.org/details/twitterstream)
 
 You can use wget for this (e.g. wget "https://archive.org/download/archiveteam-twitter-stream-2018-05/twitter-2018-05-02.tar")
 
