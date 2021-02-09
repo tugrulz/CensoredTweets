@@ -34,7 +34,15 @@ Latex:
 
 **supplement.csv** : The supplementary tweet data. (Section 3.5)
 
+## Getting Twitter Data
+
+- To collect Twitter data, you can use twarc (https://github.com/DocNow/twarc). 
+
+- Collecting tweets by ids is very easy, just call twarc hydrate ids.txt > output.json. ids.txt is a text file consisting of tweet ids (no header) 
+
 ## Reproduction
+
+It is advisable to just get the tweets from Twitter instead of reproducing the paper as reproduction is time and memory consuming. In case you still one to do that:
 
 - You need to download the archive data first (https://archive.org/details/twitterstream)
 
@@ -48,6 +56,4 @@ You can use wget for this (e.g. wget "https://archive.org/download/archiveteam-t
 
 - You can run 2-infer_withheld.py to infer which tweets were withheld in the past like in Section 3.2 of the paper.
 
-- There is no code for collecting data from Twitter as it's easy and everyone has their own library. 
 
-- If you do not know what Twitter API wrapper to use, you can use twarc (https://github.com/DocNow/twarc). Collecting tweets by ids is very easy, just call twarc hydrate ids.txt > output.json. ids.txt is a text file consisting of tweet ids (no header) 
