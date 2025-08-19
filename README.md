@@ -1,3 +1,8 @@
+# IMPORTANT NOTICE
+The reproduction material for our new 2025 paper "State & Geopolitical Censorship on Twitter (X): Detection & Impact Analysis of Withheld Content" is here:
+https://github.com/ymucahit/censorship-prediction
+
+
 # A Dataset of State-Censored Tweets
 This GitHub repository includes (or will include) the documentation and the code for reproduction of the paper "A Dataset of State-Censored Tweets".
 
